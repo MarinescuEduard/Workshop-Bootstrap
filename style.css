@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+    margin: 1em;
+}
+
+.right {
+    font-weight: bold;
+    color: green;
+}
+
+.wrong {
+    color: red;
+}
+
+.explanation {
+    font-style: italic;
+    color: gray;
+}
+
+input:checked {
+    accent-color: #5967b6;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
